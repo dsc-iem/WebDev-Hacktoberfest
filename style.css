@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #DEDFDF !important;
+}
+
+.navbar-bg{
+    background-color: #5185EB !important;
+    height: 60px;
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    border: none;
+    /* margin-top: 20px; */
+    margin-bottom: 60px;
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 20px;
+    width: 350px;
+    /* height: 500px; */
+    -webkit-box-shadow: 10px 16px 16px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 10px 16px 16px rgba(0, 0, 0, 0.3);
+    box-shadow: 10px 16px 16px rgba(0, 0, 0, 0.3);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.profile-image-card{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile-image{
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.profile-status{
+    margin-top: 20px;
+    font-size: 12px;
+    letter-spacing: 0.065em;
+    color: #FFBC14;
+}
+
+.profile-name{
+    /* margin-top: 20px; */
+    color: #D95040;
+}
+
+.name{
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.designation{
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.about{
+    margin: 30px 30px;
+    font-size: 13px;
+    color: #45995F;
+}
+
+.social-media-icons{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.fa{
+    padding: 0px 20px;    
+    font-size: 25px !important;
+    text-decoration: none;
+    color: #5185EB;
+}
+
+.fa:hover{
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.website-link{
+    text-decoration: none;
+}
+
+.website-link:hover{
+    text-decoration: none;
+}
+
+.credits{
+    margin: 10px auto;
+    font-family: 'Poppins', sans-serif;
+}
