@@ -19,6 +19,8 @@ You will modify this card according to your details and add this to the webpage.
 ### Step 2: Clone the repository
 
 - Cloning the repository will place a local copy of project on your own machine
+- Copy the URL from the copy to clipboard icon
+![Copy To Clipboard](Screenshots/Click-Copy-Icon.png)
 - Open a terminal and run the following git command :
   
 `git clone https://github.com/<your-user-name>/WebDev-Hacktoberfest.git`
@@ -57,8 +59,16 @@ Now commit those changes using the `git commit` command:
 
 ## Step 5: Push Changes
 
-Push your changes using the command `git push origin <your-branch-name`
+Push your changes using the command `git push origin <your-branch-name>`
 
 ## Step 6: Make a Pull Request
+
+Go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on it.
+
+![Compare & Pull Request](Screenshots/Compare-Pull-Request.png)
+
+Now submit the pull request
+
+![Pull Request](Screenshots/Pull-Request.png)
 
 Congrats! You have made your first contribution!
