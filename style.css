@@ -83,11 +83,12 @@ body{
     margin: 30px 30px;
     font-size: 13px;
     color: #45995F;
+    text-align: center;
 }
 
 .social-media-icons{
     margin-bottom: 20px;
-    margin-top: 10px;
+    margin-top: auto;
 }
 
 .fa{
