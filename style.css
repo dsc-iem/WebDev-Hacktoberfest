@@ -53,6 +53,8 @@ body{
 }
 
 .profile-image{
+    border-radius: 70%;
+    object-fit: cover; 
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 
 }
