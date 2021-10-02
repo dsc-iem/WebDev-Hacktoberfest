@@ -1,5 +1,5 @@
 # WebDev-Hacktoberfest
-
+#THIS REPOSITORY IS NOT ELIGIBLE FOR HACKTOBERFEST. PULL REQUESTS MADE HERE WON'T COUNT TOWARDS THE HACKTOBERFEST CHALLENGE!
 A repo for complete beginners to get started with contributing in Open Source
 
 ## What will you contribute?
