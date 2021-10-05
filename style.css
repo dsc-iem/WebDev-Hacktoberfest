@@ -6,7 +6,7 @@ body{
 }
 
 .container{
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .navbar-bg{
     background-color: #5185EB !important;
